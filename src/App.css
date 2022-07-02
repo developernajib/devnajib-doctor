@@ -1,0 +1,28 @@
+.primary-text {
+  color: #1CC7C1;
+}
+
+.bg-primary {
+  background-color: #1CC7C1 !important;
+}
+
+.form-styling {
+  width: 100%;
+  height: 35px;
+  padding-left: 15px;
+  border: none;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+}
+
+.form-close {
+  font-size: 18px;
+  border: 1px solid #ddd;
+  background: transparent;
+  padding: 4px 15px;
+}
+
+.h-100vh {
+  height: 100vh;
+}

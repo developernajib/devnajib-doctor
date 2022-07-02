@@ -1,0 +1,20 @@
+.margin-left-125 {
+    margin-left: -125px;
+}
+
+.info-primary {
+    background-color: #1CC7C1;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.info-dark {
+    background-color: #3A4256;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.info-icon {
+    font-size: 2.5em;
+}
